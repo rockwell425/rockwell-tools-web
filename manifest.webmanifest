@@ -1,0 +1,17 @@
+{
+  "name": "RockwellTools Web",
+  "short_name": "RockwellTools",
+  "description": "免费、无广告、无水印、文件本地处理的网页工具箱。",
+  "id": "/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#6d5dfc",
+  "lang": "zh-CN",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
